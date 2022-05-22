@@ -32,3 +32,4 @@
 
 + Web-страница проекта: https://vad.nomoredomains.xyz/
 + API-сервер: https://api.vad.nomoreparties.sbs
++ Public IP: 51.250.99.9
