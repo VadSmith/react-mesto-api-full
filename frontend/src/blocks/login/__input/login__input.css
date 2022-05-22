@@ -1,0 +1,28 @@
+  .login__input {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 13px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #000;
+    border-bottom: 2px solid #CCCCCC;
+    /* max-width: 358px; */
+    width: 100%;
+    /* margin-top: 30px; */
+
+
+    color: #CCCCCC;
+
+    font-family: Inter, Arial, sans-serif;
+    font-weight: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    outline: none;
+  }
+
+  @media screen and (max-width: 319px) {
+    .login__input {
+      font-size: 5.5vw;
+    }
+  }

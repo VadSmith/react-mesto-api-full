@@ -1,0 +1,17 @@
+.register__already {
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #FFF;
+  /* display: inline-block; */
+}
+
+@media screen and (max-width: 319px) {
+  .register__already {
+    font-size: 4.5vw;
+  }
+}

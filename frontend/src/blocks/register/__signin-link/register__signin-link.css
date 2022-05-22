@@ -1,0 +1,17 @@
+.register__signin-link {
+  padding-left: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.register__signin-link:hover {
+  opacity: .6;
+}
+
+
+@media screen and (max-width: 319px) {
+  .register__signin-link {
+    font-size: 4.5vw;
+    display: block;
+  }
+}

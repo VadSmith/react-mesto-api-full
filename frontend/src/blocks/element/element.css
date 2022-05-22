@@ -1,0 +1,20 @@
+.element {
+  position: relative;
+  margin: 0 auto;
+  width: 282px;
+  height: 362px;
+  border-radius: 10px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+@media screen and (max-width: 319px) {
+  .element {
+    max-width: 95%;
+    min-height: 1.5vw;
+  }
+}

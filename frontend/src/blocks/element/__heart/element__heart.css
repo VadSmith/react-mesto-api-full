@@ -1,0 +1,41 @@
+.element__heart {
+  width: 22px;
+  height: 19px;
+  background-image: url(../../../images/heart.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-size: contain;
+  cursor: pointer;
+  border: none;
+}
+
+@media screen and (max-width: 319px) {
+  .element__heart {
+    margin-left: 5px;
+    background-size: 6vw;
+    margin-bottom: 10vw;
+  }
+}
+
+.element__heart:hover {
+  opacity: 50%;
+  cursor: pointer;
+  /* cursor: url(../../../images/pointer.png) 10 0, pointer; */
+}
+
+/* .element__heart {
+  height: 19px;
+  width: 22px;
+  margin-left: 35px;
+}
+
+
+@media screen and (max-width: 319px) {
+  .element__heart {
+    margin-left: 5px;
+    width: 8vw;
+    height: auto;
+    margin-bottom: 10vw;
+  }
+} */

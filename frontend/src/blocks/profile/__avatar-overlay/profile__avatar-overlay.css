@@ -1,0 +1,27 @@
+.profile__avatar-overlay {
+  position: relative;
+  max-height: 120px;
+  max-width: 120px;
+}
+
+.profile__avatar-overlay::before {
+  content: '';
+  display: block;
+  background-color: #2A2C2F;
+  opacity: 0.01;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  cursor: pointer;
+  border-radius: 60px;
+}
+
+.profile__avatar-overlay:hover::before {
+  opacity: .8;
+  background-image: url(../../../images/pen.svg);
+  background-size: 26px 26px;
+  background-repeat: no-repeat;
+  background-position: center;
+}

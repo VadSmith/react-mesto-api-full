@@ -1,0 +1,16 @@
+.element__description {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 15px;
+}
+
+@media screen and (max-width: 319px) {
+  .element__description {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+
+}

@@ -1,0 +1,9 @@
+.header__form {
+  margin-top: 60px;
+}
+
+@media screen and (max-width: 520px) {
+  .header__form {
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,21 @@
+.form__form-element {
+  /* margin: 0; */
+  width: 358px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 520px) {
+  .form__form-element {
+    /* margin: 0 auto; */
+    width: 260px;
+  }
+}
+
+
+@media screen and (max-width: 319px) {
+  .form__form-element {
+    /* margin: 0 auto; */
+    font-size: 5.5vw;
+    max-width: 95%;
+  }
+}

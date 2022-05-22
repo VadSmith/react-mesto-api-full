@@ -1,0 +1,27 @@
+.popup__content {
+  max-width: 430px;
+  position: relative;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 34px 36px 36px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.15);
+  z-index: 100;
+}
+
+.popup__content:hover {
+  cursor: auto;
+}
+
+@media screen and (max-width: 520px) {
+  .popup__content {
+    max-width: 282px;
+    padding: 25px 22px;
+  }
+}
+
+@media screen and (max-width: 319px) {
+  .popup__content {
+    max-width: 95%;
+  }
+}

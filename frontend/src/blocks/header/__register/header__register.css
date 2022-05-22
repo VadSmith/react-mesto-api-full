@@ -1,0 +1,9 @@
+.header__register {
+  margin-top: 60px;
+}
+
+@media screen and (max-width: 520px) {
+  .header__register {
+    margin-top: 40px;
+  }
+}

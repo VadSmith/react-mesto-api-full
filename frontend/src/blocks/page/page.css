@@ -1,0 +1,38 @@
+/* * {
+  border: 1px solid red;
+} */
+
+.page {
+  margin: 0 auto;
+  min-height: 100vh;
+  padding-top: 45px;
+  background-color: #000;
+  color: #fff;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  /* display: flex; */
+  /* flex-direction: column; */
+}
+
+@media screen and (min-width: 720px) {
+  .page {
+    padding-left: 27px;
+    padding-right: 27px;
+  }
+
+}
+
+@media screen and (max-width: 720px) {
+  .page {
+    padding-top: 28px;
+  }
+
+}
+
+@media screen and (max-width: 319px) {
+  .page {}
+}

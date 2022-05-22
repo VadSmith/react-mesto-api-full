@@ -1,6 +1,10 @@
-# react-mesto-api-full
+<!-- [![Tests](https://github.com/yandex-praktikum/express-mesto-gha/actions/workflows/tests-13-sprint.yml/badge.svg)](https://github.com/yandex-praktikum/express-mesto-gha/actions/workflows/tests-13-sprint.yml)  -->
+<!-- 
+[![Tests](https://github.com/yandex-praktikum/express-mesto-gha/actions/workflows/tests-14-sprint.yml/badge.svg)](https://github.com/yandex-praktikum/express-mesto-gha/actions/workflows/tests-14-sprint.yml) -->
 
-## Проект: "Место React App"
+[![Tests for sprint 13](https://github.com/VadSmith/express-mesto-gha/actions/workflows/tests-13-sprint.yml/badge.svg)](https://github.com/VadSmith/express-mesto-gha/actions/workflows/tests-13-sprint.yml) 
+
+[![Tests for sprint 14](https://github.com/VadSmith/express-mesto-gha/actions/workflows/tests-14-sprint.yml/badge.svg)](https://github.com/VadSmith/express-mesto-gha/actions/workflows/tests-14-sprint.yml)
 
 # Проект: Место
 
@@ -30,7 +34,4 @@
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
 
-[Ссылка на репозиторий Github](https://github.com/VadSmith/react-mesto-api-full)
-
-Web-страница проекта: http://vad.nomoredomains.xyz/
-API-сервер: https://api.vad.nomoreparties.sbs
+[Ссылка на репозиторий Github](https://github.com/VadSmith/express-mesto-gha)

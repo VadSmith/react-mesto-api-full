@@ -1,0 +1,10 @@
+.header__navbar {}
+
+
+@media screen and (max-width: 720px) {
+  .header__navbar {
+    /* max-width: 95%; */
+    /* min-height: 1.5vw; */
+    margin-right: 30px;
+  }
+}

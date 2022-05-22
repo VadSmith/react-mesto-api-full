@@ -1,0 +1,21 @@
+.login__form {
+  /* margin: 0; */
+  width: 358px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 520px) {
+  .login__form {
+    /* margin: 0 auto; */
+    width: 260px;
+  }
+}
+
+
+@media screen and (max-width: 319px) {
+  .login__form {
+    /* margin: 0 auto; */
+    font-size: 5.5vw;
+    max-width: 95%;
+  }
+}
