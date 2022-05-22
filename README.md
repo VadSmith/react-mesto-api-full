@@ -2,8 +2,6 @@
 
 ## Проект: "Место React App"
 
-# Проект: Место
-
 **Описание проекта**
 
 Это сайт о местах, в которых побывал человек.
@@ -32,5 +30,5 @@
 
 [Ссылка на репозиторий Github](https://github.com/VadSmith/react-mesto-api-full)
 
-Web-страница проекта: http://vad.nomoredomains.xyz/
-API-сервер: https://api.vad.nomoreparties.sbs
++ Web-страница проекта: https://vad.nomoredomains.xyz/
++ API-сервер: https://api.vad.nomoreparties.sbs
