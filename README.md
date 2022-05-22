@@ -30,5 +30,5 @@
 
 [Ссылка на репозиторий Github](https://github.com/VadSmith/react-mesto-api-full)
 
-+Web-страница проекта: https://vad.nomoredomains.xyz/
-+API-сервер: https://api.vad.nomoreparties.sbs
++ Web-страница проекта: https://vad.nomoredomains.xyz/
++ API-сервер: https://api.vad.nomoreparties.sbs
