@@ -30,5 +30,7 @@
 
 [Ссылка на репозиторий Github](https://github.com/VadSmith/react-mesto-api-full)
 
-+ Web-страница проекта: https://vad.nomoredomains.xyz/
++ Web-страница проекта по http: http://vad.nomoredomains.xyz/
++ Web-страница проекта по https: https://vad.nomoredomains.xyz/
 + API-сервер: https://api.vad.nomoreparties.sbs
++ Public IP: 51.250.99.9
