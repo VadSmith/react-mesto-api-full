@@ -178,7 +178,7 @@ function App() {
 
   // Проверка токена в локальной базе
   function tokenCheck() {
-    if (loggedIn) {
+    // if (loggedIn) {
       mestoAuth.getMyInfo()
         .then((res) => {
           setEmail(res.email);
@@ -187,7 +187,7 @@ function App() {
         .catch((err) => {
           console.log(err);
         });
-    }
+    // }
   }
 
   // Разлогиниться
